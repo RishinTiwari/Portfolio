@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.fd428976.css",
-    "main.js": "/Portfolio/static/js/main.f9d6910b.js",
+    "main.css": "/Portfolio/static/css/main.d7ebb899.css",
+    "main.js": "/Portfolio/static/js/main.06b51d35.js",
+    "static/media/insurance.png": "/Portfolio/static/media/insurance.9966259965730605847a.png",
     "static/media/Me.jpeg": "/Portfolio/static/media/Me.dc0c3c5764f9afa938af.jpeg",
+    "static/media/redis.png": "/Portfolio/static/media/redis.c42977920a7079dc4744.png",
     "static/media/Tableau.jpeg": "/Portfolio/static/media/Tableau.9a787dfc6ba6a23af963.jpeg",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.86150c9d6d8673105702.pdf",
+    "static/media/heart.jpeg": "/Portfolio/static/media/heart.4a8ae6c555b9629fd11e.jpeg",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.6578823f396e1f69a437.pdf",
     "static/media/Sneakers.jpeg": "/Portfolio/static/media/Sneakers.d56598c7be1eebe3ba9a.jpeg",
     "static/media/tiwari.webp": "/Portfolio/static/media/tiwari.3986f301e19ed2603c46.webp",
     "static/media/ISl.jpeg": "/Portfolio/static/media/ISl.a929f8af531bd6fc35a3.jpeg",
+    "static/media/retargeting.png": "/Portfolio/static/media/retargeting.bdf06ffbb97f97d8889f.png",
+    "static/media/mongo.webp": "/Portfolio/static/media/mongo.630595aed552ce974d4f.webp",
+    "static/media/backorder.png": "/Portfolio/static/media/backorder.9ef16b963d29dc89e2f8.png",
     "index.html": "/Portfolio/index.html",
-    "main.fd428976.css.map": "/Portfolio/static/css/main.fd428976.css.map",
-    "main.f9d6910b.js.map": "/Portfolio/static/js/main.f9d6910b.js.map"
+    "main.d7ebb899.css.map": "/Portfolio/static/css/main.d7ebb899.css.map",
+    "main.06b51d35.js.map": "/Portfolio/static/js/main.06b51d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd428976.css",
-    "static/js/main.f9d6910b.js"
+    "static/css/main.d7ebb899.css",
+    "static/js/main.06b51d35.js"
   ]
 }
