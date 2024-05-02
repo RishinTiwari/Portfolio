@@ -3,7 +3,7 @@ import "./Nav.css";
 import { AiOutlineHome } from "react-icons/ai";
 import { AiOutlineUser } from "react-icons/ai";
 import { BiBook } from "react-icons/bi";
-import { RiServiceLine } from "react-icons/ri";
+import { GoProjectSymlink } from "react-icons/go";
 import { BiMessageSquareDetail } from "react-icons/bi";
 import { useState } from "react";
 
@@ -32,13 +32,13 @@ const Nav = () => {
       >
         <BiBook />
       </a>
-      {/* <a
-        href="#services"
-        onClick={() => setActiveNav("#services")}
-        className={activeNav === "#services" ? "active" : ""}
+      <a
+        href="#portfolio"
+        onClick={() => setActiveNav("#portfolio")}
+        className={activeNav === "#portfolio" ? "active" : ""}
       >
-        <RiServiceLine />
-      </a> */}
+        <GoProjectSymlink />
+      </a>
       <a
         href="#contact"
         onClick={() => setActiveNav("#contact")}
@@ -46,6 +46,15 @@ const Nav = () => {
       >
         <BiMessageSquareDetail />
       </a>
+      
+      <a
+        href="#blog"
+        onClick={() => setActiveNav("#blog")}
+        className={activeNav === "#blog" ? "active" : ""}
+      >
+        <p style = {{fontSize: "14px"}}>Blog</p>
+      </a>
+      
     </nav>
   );
 };

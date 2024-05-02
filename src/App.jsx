@@ -2,24 +2,22 @@ import React from 'react'
 import Header from './components/header/Header'
 import Nav from './components/nav/Nav'
 import About from './components/about/About'
-import Experinces from './components/experience/Experience'
-import Services from './components/services/Services'
+import Experiences from './components/experience/Experience'
+import Blog from './components/blog/Blog'
 import Portfolio from './components/portfolio/Portfolio'
-import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 
 export const App = () => {
   return (
     <>
-      <Header />
+    <Header />
       <Nav />
-      <About />
-      <Experinces />
-      {/* <Services /> */}
-      <Portfolio />
-      {/* <Testimonials /> */}
-      <Contact />
+      <About/>
+      <Experiences/>
+      <Portfolio/>
+      <Contact/>
+      <Blog />
       <Footer />
     </>
   )

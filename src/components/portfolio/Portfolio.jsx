@@ -8,7 +8,7 @@ import  insurance from "../../assets/insurance.png";
 import  backorder from "../../assets/backorder.png";
 import  retargeting from "../../assets/retargeting.png";
 import  mongo from "../../assets/mongo.webp";
-import  redis1 from "../../assets/redis.png";
+import  gemini from "../../assets/gemini.png";
 
 const data = [
   {
@@ -48,9 +48,9 @@ const data = [
   },
   {
     id: 10,
-    image: redis1,
-    title: "Redis E-commerce CRUD Project",
-    github: "https://github.com/RishinTiwari/Redis-CRUD-Project",
+    image: gemini,
+    title: "LLM Nutrition App using Google Gemini API",
+    github: "https://github.com/RishinTiwari/Nutrition-App-using-Google-Gemini-API",
     demo: "",
   },
   {

@@ -10,12 +10,12 @@ const Experience = () => {
 
       <div className="container experience__container">
         <div className="experience__backend">
-          <h3>Data Mining & Analytical Skills</h3>
+          <h3>Data Science & Analytics</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className="experince__details-icon" />
               <div>
-                <h4>Python & R</h4>
+                <h4>Python,R,PySpark</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -29,14 +29,14 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experince__details-icon" />
               <div>
-                <h4>Data Mining & Analytics</h4>
+                <h4>LLMs and Generative AI</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experince__details-icon" />
               <div>
-                <h4>ETL and Data Pipelines</h4>
+                <h4>Big Data, ETL and Data Pipeline</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -86,8 +86,8 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experince__details-icon" />
               <div>
-                <h4>Redis</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Hadoop, MongoDB and Cassandra</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">

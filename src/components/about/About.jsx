@@ -36,7 +36,7 @@ const About = () => {
             </article>
           </div>
           <p>
-          Bringing over 2.5 years of proven experience as a seasoned data analyst, I stand out in the realms of Python, SQL, Tableau, PowerBI, R, and ETL methodologies. Proficient in executing statistical analyses and applying agile methodologies, I specialize in extracting meaningful insights. My expertise further extends to the application of AI and ML techniques, showcasing a dedicated commitment to optimizing data processes for informed business strategies. Moreover, my track record includes a demonstrated ability to design impactful visualizations and custom dashboards, underscoring my passionate dedication to harnessing the power of data for unlocking strategic business growth opportunities.
+          With over 2.5 years of experience as a seasoned data analyst, I excel in Python, SQL, Data Science, Data Visualization, ETL, and Big Data. Proficient in statistical analysis and agile methodologies, I specialize in extracting meaningful insights for informed business strategies. My expertise extends to AI and ML techniques, and I am passionate about leveraging data to unlock strategic growth opportunities. Currently, I am exploring LLMs and Generative AI, staying updated with emerging trends to harness AI's potential in making our lives easier. Let's connect to discuss how we can use AI for mutual benefit.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

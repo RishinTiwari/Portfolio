@@ -3,7 +3,11 @@ import './Header.css'
 import CTA from './CTA'
 import Me from '../../assets/Me.jpeg'
 import HeaderSocials from './HeaderSocials'
-
+import About from '../../components/about/About'
+import Experience from '../experience/Experience'
+import Portfolio from '../portfolio/Portfolio'
+import Contact from '../contact/Contact'
+import '../about/About.css'
 const Header = () => {
   return (
     <header>
@@ -19,6 +23,7 @@ const Header = () => {
 
         <a href="#contact" className="scroll__down"> Scroll Down</a>
       </div>
+      
     </header>
   )
 }

@@ -1,0 +1,19 @@
+.blog_heading{
+    text-align: center;   
+}
+.blog_body{
+    font-size: 18px;
+    text-align: justify;
+    padding: 0px 75px;
+}
+.blog_src{
+    width: 50%;
+    margin: 25px auto;
+    display: block;
+}
+#blog{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
